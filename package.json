@@ -1,0 +1,23 @@
+{
+  "name": "https-req-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpalosot/https-req-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpalosot/https-req-package/issues"
+  },
+  "homepage": "https://github.com/kpalosot/https-req-package#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
